@@ -1,11 +1,11 @@
 [
 null,
 {"id":1,"expanded":false,"name":"エルピックの洞窟１","order":3,"parentId":2,"scrollX":1232.7272727272727,"scrollY":1611.2727272727273},
-{"id":2,"expanded":true,"name":"フィールド","order":1,"parentId":0,"scrollX":4282,"scrollY":3100},
+{"id":2,"expanded":true,"name":"フィールド","order":1,"parentId":0,"scrollX":4282.909090909091,"scrollY":3099.2727272727275},
 null,
 null,
 null,
 null,
 null,
-{"id":8,"expanded":false,"name":"00_初期画面","order":2,"parentId":2,"scrollX":832,"scrollY":640}
+{"id":8,"expanded":false,"name":"00_初期画面","order":2,"parentId":2,"scrollX":1184.7272727272727,"scrollY":806.1818181818182}
 ]
