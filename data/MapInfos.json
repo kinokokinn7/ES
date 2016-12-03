@@ -1,12 +1,13 @@
 [
 null,
-{"id":1,"expanded":false,"name":"エルピックの洞窟１","order":8,"parentId":2,"scrollX":1167.2727272727273,"scrollY":788.7272727272727},
-{"id":2,"expanded":true,"name":"フィールド","order":1,"parentId":0,"scrollX":2943.2727272727275,"scrollY":3738.5454545454545},
-{"id":3,"expanded":true,"name":"エンベの秘境","order":5,"parentId":2,"scrollX":1184.7272727272727,"scrollY":806.1818181818182},
-{"id":4,"expanded":true,"name":"沼地（H27_AM2）","order":6,"parentId":3,"scrollX":1167.2727272727273,"scrollY":1113.8181818181818},
-{"id":5,"expanded":true,"name":"氷の洞窟（H26_AM2）","order":7,"parentId":3,"scrollX":1184.7272727272727,"scrollY":1131.2727272727273},
-{"id":6,"expanded":false,"name":"普通の町","order":3,"parentId":2,"scrollX":1167.2727272727273,"scrollY":1113.8181818181818},
+{"id":1,"expanded":false,"name":"エルピックの洞窟１","order":8,"parentId":2,"scrollX":1168,"scrollY":788},
+{"id":2,"expanded":true,"name":"フィールド","order":1,"parentId":0,"scrollX":2944,"scrollY":4354},
+{"id":3,"expanded":true,"name":"エンベの秘境","order":5,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"沼地（H27_AM2）","order":6,"parentId":3,"scrollX":1104,"scrollY":1132},
+{"id":5,"expanded":true,"name":"氷の洞窟（H26_AM2）","order":7,"parentId":3,"scrollX":1184,"scrollY":1132},
+{"id":6,"expanded":false,"name":"普通の町","order":3,"parentId":2,"scrollX":1104,"scrollY":1114},
 {"id":7,"expanded":false,"name":"宿屋1F","order":4,"parentId":6,"scrollX":832,"scrollY":640},
-{"id":8,"expanded":false,"name":"00_初期画面","order":2,"parentId":2,"scrollX":1184.7272727272727,"scrollY":806.1818181818182},
-{"id":9,"expanded":false,"name":"LPICの塔1F（LPIC 5章）","order":9,"parentId":2,"scrollX":1167.2727272727273,"scrollY":1113.8181818181818}
+{"id":8,"expanded":false,"name":"00_初期画面","order":2,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":true,"name":"LPICの塔1F（LPIC 5章）","order":9,"parentId":2,"scrollX":1152,"scrollY":788},
+{"id":10,"expanded":true,"name":"遺跡","order":10,"parentId":2,"scrollX":1184.7272727272727,"scrollY":806.1818181818182}
 ]
