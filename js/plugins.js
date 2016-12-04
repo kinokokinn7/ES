@@ -13,5 +13,6 @@ var $plugins =
 {"name":"TDDP_ManageDashing","status":true,"description":"1.0.1 Lets you manage the dashing mode in your game with simple plugin options.","parameters":{"Disable Auto-dash":"false","Force Dashing":"true","Disable Dashing":"false","Remove Always Dash Option":"false"}},
 {"name":"liply_LoopPointPatch","status":false,"description":"","parameters":{}},
 {"name":"メッセージ効果音","status":true,"description":"メッセージ中にSEを演奏する","parameters":{"SeData1":"Cursor3","SeData2":"60","SeData3":"150","SeData4":"0","SeWait":"2","StopSeSw":"1"}},
-{"name":"111_InputForm","status":true,"description":"フォーム作って文字入力（修正版）","parameters":{}}
+{"name":"111_InputForm","status":true,"description":"フォーム作って文字入力（修正版）","parameters":{}},
+{"name":"WeaponSkill","status":true,"description":"武器ごとに通常攻撃のスキルIDを変更します。","parameters":{}}
 ];
